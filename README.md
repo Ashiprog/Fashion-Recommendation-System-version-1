@@ -1,6 +1,6 @@
 # Fashion-Recommendation-System-with-OpenAI
 
-A semantic fashion recommendation system that understands the meaning of your search, not just keywords. Built with OpenAI embeddings, FAISS vector search, and a Streamlit UI.
+A semantic fashion recommendation system that understands the meaning of your search, not just keywords. Built with OpenAI embeddings, FAISS vector search, and a Streamlit UI. This is version 1 of the project with only 5000 projects.
 ## What It Does
 Traditional fashion search returns results based on exact keyword matches. This system uses semantic search — so searching "shiny festive outfit" finds sequinned and embroidered kurtas, even if those exact words aren't in the product name.
 ## How It Works
